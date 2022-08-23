@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### Zero Bot:
 <a href="https://top.gg/bot/518848646016401434">
-  <img src="https://top.gg/api/widget/518848646016401434.svg">
+  <img src="https://top.gg/api/widget/721537994733125752.svg">
 </a>
 
 
