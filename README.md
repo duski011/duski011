@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ I code in Node.js
 
 
-  <a href="https://discord.gg/z-h"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/z-h"><img src="https://discord.com/api/guilds/721537994733125752/widget.png?style=banner2"></a>
 
 ***
 
