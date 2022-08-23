@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm SmSm - [Zero Codes](https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q) 👋
+# Hello! I'm DUSKI - [iLsSQUAD](https://discord.gg/ilssquad) 👋
 
 ### I'm Not developer, Im Just Coder, and a Discord bot Coder!
 - 📚 I'm currently learning networking, docker
