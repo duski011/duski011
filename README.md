@@ -59,7 +59,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=devsmsm&color=yellow&style=for-the-badge)
 ### You can find me here:
-<a href="https://discord.gg/RMEQSbMtEk" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-<a href="mailto: notzero0@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
-
+<a href="https://discord.gg/ilssquad" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
